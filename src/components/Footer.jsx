@@ -90,7 +90,7 @@ const Footer = () => {
 
             <div className="flex items-center justify-between pt-10 mb-8">
                 <a href="" className="">
-                    <img src="/images/logo.png" width={40} height={40} alt="logo" className="" />
+                    <img src="/static/images/logo.png" width={40} height={40} alt="logo" className="" />
                 </a>
                 <p className="text-zinc-400">
                     &copy; 2024 <span className="text-zinc-200">Malvericus</span>

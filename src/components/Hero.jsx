@@ -8,7 +8,7 @@ const Hero = () => {
         <div>
           <div className="flex items-center gap-3">
             <figure className="img-box w-9 h-9 rounded-lg">
-              <img src='/images/avatar-1.jpeg' width={40} height={40} alt='Portrait' className='image-cover'/>
+              <img src='/static/images/avatar-1.jpeg' width={40} height={40} alt='Portrait' className='image-cover'/>
             </figure>
 
             <div className="flex items-center gap-1.5  text-zinc-400 text-sm tracking-wide">
@@ -25,7 +25,7 @@ const Hero = () => {
           </h2>
 
           <div className="flex items-center gap-3">
-          <a href="/images/resume.pdf" target="_blank" rel="noopener noreferrer">
+          <a href="/static/images/resume.pdf" target="_blank" rel="noopener noreferrer">
            <ButtonPrimary
             label="Download CV" 
             icon="download"
@@ -45,7 +45,7 @@ const Hero = () => {
         <div className="hidden lg:block">
           <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% 
           via-sky-400/40 to-65% rounded-[60px] overflow-hidden">
-            <img src="/images/wave.gif" width={300} height={200} alt="Malvika" className="w-full" />
+            <img src="/static/images/wave.gif" width={300} height={200} alt="Malvika" className="w-full" />
           </figure>
         </div>
 

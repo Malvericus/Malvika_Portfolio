@@ -39,7 +39,7 @@ const About = () => {
               ))
             }
 
-            <img src="/images/logo.png" alt="Logo" width={30} height={30} className="ml-auto md:w-[40px] md:h-[40px]" />
+            <img src="/static/images/logo.png" alt="Logo" width={30} height={30} className="ml-auto md:w-[40px] md:h-[40px]" />
 
           </div>
 

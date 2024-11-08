@@ -3,37 +3,37 @@ import ProjectCard from './ProjectCard';
 
 const works = [
     {
-      imgSrc: '/images/aerosync.png',
+      imgSrc: '/static/images/aerosync.png',
       title: 'AeroSync: A Flight Guide',
       tags: ['API', 'AI-ML', 'FLASK'],
       projectLink: 'https://github.com/Malvericus/Aerosync'
     },
     {
-      imgSrc: '/images/reverb.png',
+      imgSrc: '/static/images/reverb.png',
       title: 'SIT Reverb 24',
       tags: ['Web Design', 'UI/UX'],
       projectLink: 'https://reverbfest.in/'
     },
     {
-      imgSrc: '/images/acm.png',
+      imgSrc: '/static/images/acm.png',
       title: 'SIT ACM Website',
       tags: ['NextJS', 'Tailwind'],
       projectLink: 'https://acmnextjs.vercel.app/'
     },
     {
-      imgSrc: '/images/studio.png',
+      imgSrc: '/static/images/studio.png',
       title: 'Studio Booking Site',
       tags: ['Java Servlet', 'JSP'],
       projectLink: 'https://github.com/Malvericus/StudioBookingSystem'
     },
     {
-      imgSrc: '/images/sl.png',
+      imgSrc: '/static/images/sl.png',
       title: 'VedicConnect',
       tags: ['NextJS', 'API', 'E-Learning'],
       projectLink: 'https://github.com/Malvericus/service-learning-project'
     },
     {
-      imgSrc: '/images/nest.png',
+      imgSrc: '/static/images/nest.png',
       title: 'NestMate',
       tags: ['React', 'HonoJS', 'Cloudflare'],
       projectLink: 'https://nestmate.netlify.app/'

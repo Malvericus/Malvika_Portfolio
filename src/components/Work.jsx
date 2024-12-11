@@ -36,7 +36,7 @@ const works = [
       imgSrc: '/static/images/nest.png',
       title: 'NestMate',
       tags: ['React', 'HonoJS', 'Cloudflare'],
-      projectLink: 'https://nestmate.netlify.app/'
+      projectLink: 'https://github.com/Malvericus/Nestmate-Frontend'
     },
   ];
 
